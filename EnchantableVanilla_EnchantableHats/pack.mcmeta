@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Makes hats enchantable with helmet enchantments. By GoldenRedstone.",
+    "description": "Makes hats enchantable like helmets. By GoldenRedstone.",
     "pack_format": 71,
     "supported_formats": [48, 71]
   }
