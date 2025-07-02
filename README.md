@@ -1,20 +1,20 @@
-# EnchantableVanilla
+# [EnchantableVanilla](https://modrinth.com/collection/aUSnHGtB)
 EnchantableVanilla broadens the enchantability of items in Minecraft while keeping everything vanilla.
 It does this by making minimal changes to the vanilla item tags and enchantment definitions.
-This way it is still subject to the same enchantment restrictions as vanilla, but for more items.
+This way, it is still subject to the same enchantment restrictions as vanilla, but for more items.
 
 If you have any issues, bugs, suggestions, or requests, contact pointer_rain on GitHub or Discord.
 
-## Knockback Sticks
+## [Knockback Sticks](https://modrinth.com/datapack/ev-knockback-sticks)
 Makes sticks enchantable with knockback (I or II) in an anvil.
 
-## Enchantable Hats
+## [Enchantable Hats](https://modrinth.com/datapack/ev-enchantable-hats)
 Makes hats enchantable with helmet-specific enchantments using an anvil.  
 Heads, skulls, and carved pumpkins can additionally be enchanted with:
 - Aqua Affinity
 - Respiration (I, II, III)
 
-## Sword-like Mace
+## [Sword-like Mace](https://modrinth.com/datapack/ev-swordlike-mace)
 Makes maces enchantable a bit more like swords in an anvil.  
 Maces can be additionally enchanted with:
 - Knockback (I, II)
@@ -23,7 +23,7 @@ Maces can be additionally enchanted with:
 
 Maces cannot be enchanted with sharpness because they are not sharp weapons.
 
-## Enchantable Bows
+## [Enchantable Bows](https://modrinth.com/datapack/ev-enchantable-bows)
 Makes bows enchantable like crossbows and crossbows enchantable like bows.  
 Bows can additionally be enchanted with:
 - Multishot
