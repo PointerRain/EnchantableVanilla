@@ -1,7 +1,8 @@
 {
   "pack": {
     "description": "Makes sticks enchantable with knockback. By GoldenRedstone",
-    "pack_format": 81,
-    "supported_formats": [48, 81]
+    "pack_format": 94,
+    "min_format": 94,
+    "max_format": 94
   }
 }
